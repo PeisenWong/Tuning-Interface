@@ -1,0 +1,334 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+Axes	inc/CvPlot/core/Axes.h	/^class CVPLOT_LIBRARY_INTERFACE Axes :public DrawableDeque {$/;"	c	namespace:CvPlot
+BOARD_FLOAT_HEIGHT	main.cpp	44;"	d	file:
+BOARD_FLOAT_POS_X	main.cpp	45;"	d	file:
+BOARD_FLOAT_POS_Y	main.cpp	46;"	d	file:
+BOARD_FLOAT_WIDTH	main.cpp	43;"	d	file:
+BOARD_INT_HEIGHT	main.cpp	40;"	d	file:
+BOARD_INT_POS_X	main.cpp	41;"	d	file:
+BOARD_INT_POS_Y	main.cpp	42;"	d	file:
+BOARD_INT_WIDTH	main.cpp	39;"	d	file:
+BUFFER_SIZE	main.cpp	85;"	d	file:
+Border	inc/CvPlot/drawables/Border.h	/^class CVPLOT_LIBRARY_INTERFACE Border : public Drawable {$/;"	c	namespace:CvPlot
+CC	Makefile	/^CC = "g++"$/;"	m
+CSV_PATH	main.cpp	49;"	d	file:
+CVPLOT_DEFINE_FUN	inc/CvPlot/libdef.h	23;"	d
+CVPLOT_DEFINE_FUN	inc/CvPlot/libdef.h	25;"	d
+CVPLOT_HEADER_ONLY	main.cpp	13;"	d	file:
+CVPLOT_LIBRARY_INTERFACE	inc/CvPlot/libdef.h	11;"	d
+CVPLOT_LIBRARY_INTERFACE	inc/CvPlot/libdef.h	15;"	d
+CVPLOT_LIBRARY_INTERFACE	inc/CvPlot/libdef.h	19;"	d
+CVPLOT_LIBRARY_INTERFACE	inc/CvPlot/libdef.h	9;"	d
+CVPLOT_NO_WARNING_DLL_INTERFACE	inc/CvPlot/Internal/no_warning.h	10;"	d
+CVPLOT_NO_WARNING_DLL_INTERFACE	inc/CvPlot/Internal/no_warning.h	16;"	d
+CVPLOT_VERSION	inc/CvPlot/version.h	9;"	d
+Circle	inc/CvPlot/drawables/MarkerType.h	/^    Circle,$/;"	m	class:CvPlot::MarkerType
+CvPlot	inc/CvPlot/Internal/LinearProjection.h	/^namespace CvPlot {$/;"	n
+CvPlot	inc/CvPlot/Internal/Pimpl.h	/^namespace CvPlot {$/;"	n
+CvPlot	inc/CvPlot/Internal/RawProjection.h	/^namespace CvPlot {$/;"	n
+CvPlot	inc/CvPlot/Internal/util.h	/^namespace CvPlot {$/;"	n
+CvPlot	inc/CvPlot/core/Axes.h	/^namespace CvPlot {$/;"	n
+CvPlot	inc/CvPlot/core/Drawable.h	/^namespace CvPlot {$/;"	n
+CvPlot	inc/CvPlot/core/DrawableDeque.h	/^namespace CvPlot {$/;"	n
+CvPlot	inc/CvPlot/core/Projection.h	/^namespace CvPlot {$/;"	n
+CvPlot	inc/CvPlot/core/RenderTarget.h	/^namespace CvPlot {$/;"	n
+CvPlot	inc/CvPlot/core/Transformation.h	/^namespace CvPlot {$/;"	n
+CvPlot	inc/CvPlot/core/makeAxes.h	/^namespace CvPlot {$/;"	n
+CvPlot	inc/CvPlot/drawables/Border.h	/^namespace CvPlot {$/;"	n
+CvPlot	inc/CvPlot/drawables/Group.h	/^namespace CvPlot {$/;"	n
+CvPlot	inc/CvPlot/drawables/HorizontalGrid.h	/^namespace CvPlot {$/;"	n
+CvPlot	inc/CvPlot/drawables/HorizontalLine.h	/^namespace CvPlot {$/;"	n
+CvPlot	inc/CvPlot/drawables/Image.h	/^namespace CvPlot {$/;"	n
+CvPlot	inc/CvPlot/drawables/LineBase.h	/^namespace CvPlot {$/;"	n
+CvPlot	inc/CvPlot/drawables/LineType.h	/^namespace CvPlot {$/;"	n
+CvPlot	inc/CvPlot/drawables/MarkerType.h	/^namespace CvPlot {$/;"	n
+CvPlot	inc/CvPlot/drawables/Series.h	/^namespace CvPlot {$/;"	n
+CvPlot	inc/CvPlot/drawables/Title.h	/^namespace CvPlot {$/;"	n
+CvPlot	inc/CvPlot/drawables/VerticalGrid.h	/^namespace CvPlot {$/;"	n
+CvPlot	inc/CvPlot/drawables/VerticalLine.h	/^namespace CvPlot {$/;"	n
+CvPlot	inc/CvPlot/drawables/XAxis.h	/^namespace CvPlot {$/;"	n
+CvPlot	inc/CvPlot/drawables/XLabel.h	/^namespace CvPlot {$/;"	n
+CvPlot	inc/CvPlot/drawables/YAxis.h	/^namespace CvPlot {$/;"	n
+CvPlot	inc/CvPlot/drawables/YLabel.h	/^namespace CvPlot {$/;"	n
+CvPlot	inc/CvPlot/gui/MouseAdapter.h	/^namespace CvPlot {$/;"	n
+CvPlot	inc/CvPlot/gui/MouseEvent.h	/^namespace CvPlot {$/;"	n
+CvPlot	inc/CvPlot/gui/Window.h	/^namespace CvPlot {$/;"	n
+CvPlot	inc/CvPlot/gui/show.h	/^namespace CvPlot {$/;"	n
+CvPlot	inc/CvPlot/version.h	/^namespace CvPlot {$/;"	n
+DEMO	main.cpp	31;"	d	file:
+DTR	serialLib/serialib.cpp	/^bool serialib::DTR(bool status)$/;"	f	class:serialib
+Drawable	inc/CvPlot/core/Drawable.h	/^class CVPLOT_LIBRARY_INTERFACE Drawable {$/;"	c	namespace:CvPlot
+DrawableDeque	inc/CvPlot/core/DrawableDeque.h	/^class CVPLOT_LIBRARY_INTERFACE DrawableDeque {$/;"	c	namespace:CvPlot
+DrawableSub	inc/CvPlot/core/Drawable.h	/^class DrawableSub :public Drawable {$/;"	c	namespace:CvPlot
+Drawables	inc/CvPlot/core/DrawableDeque.h	/^    typedef std::deque<std::unique_ptr<Drawable>> Drawables;$/;"	t	class:CvPlot::DrawableDeque
+EepromWriteRequest	main.cpp	/^void EepromWriteRequest(int s)$/;"	f
+Group	inc/CvPlot/drawables/Group.h	/^class CVPLOT_LIBRARY_INTERFACE Group :public DrawableDeque, public Drawable{$/;"	c	namespace:CvPlot
+HEADER	main.cpp	82;"	d	file:
+HorizontalGrid	inc/CvPlot/drawables/HorizontalGrid.h	/^class CVPLOT_LIBRARY_INTERFACE HorizontalGrid : public LineBaseSub<HorizontalGrid> {$/;"	c	namespace:CvPlot
+HorizontalLine	inc/CvPlot/drawables/HorizontalLine.h	/^class CVPLOT_LIBRARY_INTERFACE HorizontalLine : public LineBaseSub<HorizontalLine> {$/;"	c	namespace:CvPlot
+Image	inc/CvPlot/drawables/Image.h	/^class CVPLOT_LIBRARY_INTERFACE Image : public Drawable {$/;"	c	namespace:CvPlot
+Internal	inc/CvPlot/Internal/Pimpl.h	/^namespace Internal {$/;"	n	namespace:CvPlot
+Internal	inc/CvPlot/Internal/util.h	/^namespace Internal {$/;"	n	namespace:CvPlot
+JPG_PATH	main.cpp	50;"	d	file:
+LIBS	Makefile	/^LIBS = `pkg-config opencv4 --cflags --libs`$/;"	m
+LinLogTransformation	inc/CvPlot/core/Transformation.h	/^class LinLogTransformation : public Transformation {$/;"	c	namespace:CvPlot
+LineBase	inc/CvPlot/drawables/LineBase.h	/^class CVPLOT_LIBRARY_INTERFACE LineBase : public DrawableSub<LineBase>{$/;"	c	namespace:CvPlot
+LineBaseSub	inc/CvPlot/drawables/LineBase.h	/^class LineBaseSub :public LineBase {$/;"	c	namespace:CvPlot
+LineType	inc/CvPlot/drawables/LineType.h	/^enum class LineType {$/;"	c	namespace:CvPlot
+LinearProjection	inc/CvPlot/Internal/LinearProjection.h	/^struct LinearProjection {$/;"	s	namespace:CvPlot
+LogLinTransformation	inc/CvPlot/core/Transformation.h	/^class LogLinTransformation : public Transformation {$/;"	c	namespace:CvPlot
+LogLogTransformation	inc/CvPlot/core/Transformation.h	/^class LogLogTransformation : public Transformation {$/;"	c	namespace:CvPlot
+MAX_NUMBER_OF_TRACKBAR	main.cpp	36;"	d	file:
+MAX_VARIABLE_PER_BOARD	main.cpp	35;"	d	file:
+MAX_VARIABLE_PER_TRACKBAR	main.cpp	34;"	d	file:
+MarkerType	inc/CvPlot/drawables/MarkerType.h	/^enum class MarkerType {$/;"	c	namespace:CvPlot
+MouseAdapter	inc/CvPlot/gui/MouseAdapter.h	/^class CVPLOT_LIBRARY_INTERFACE MouseAdapter {$/;"	c	namespace:CvPlot
+MouseEvent	inc/CvPlot/gui/MouseEvent.h	/^    MouseEvent(Axes &axes, cv::Size renderSize, int event, int x, int y, int flags)$/;"	f	class:CvPlot::MouseEvent
+MouseEvent	inc/CvPlot/gui/MouseEvent.h	/^class MouseEvent {$/;"	c	namespace:CvPlot
+MouseEventHandler	inc/CvPlot/gui/MouseEvent.h	/^typedef std::function<bool(const MouseEvent&)> MouseEventHandler;$/;"	t	namespace:CvPlot
+None	inc/CvPlot/drawables/LineType.h	/^    None,$/;"	m	class:CvPlot::LineType
+None	inc/CvPlot/drawables/MarkerType.h	/^    None,$/;"	m	class:CvPlot::MarkerType
+OFFSET_DUE_TO_UBUNTU	main.cpp	38;"	d	file:
+PRECISION	main.cpp	81;"	d	file:
+PROJECT	Makefile	/^PROJECT = tune$/;"	m
+Page	main.cpp	/^cv::String Page;$/;"	v
+Pimpl	inc/CvPlot/Internal/Pimpl.h	/^    Pimpl(Args&& ...args)$/;"	f	class:CvPlot::Internal::Pimpl
+Pimpl	inc/CvPlot/Internal/Pimpl.h	/^    Pimpl(Pimpl<T>&& o)$/;"	f	class:CvPlot::Internal::Pimpl
+Pimpl	inc/CvPlot/Internal/Pimpl.h	/^class Pimpl {$/;"	c	namespace:CvPlot::Internal
+Projection	inc/CvPlot/core/Projection.h	/^    Projection(RawProjection rawProjection)$/;"	f	class:CvPlot::Projection
+Projection	inc/CvPlot/core/Projection.h	/^class Projection {$/;"	c	namespace:CvPlot
+RTS	serialLib/serialib.cpp	/^bool serialib::RTS(bool status)$/;"	f	class:serialib
+RawProjection	inc/CvPlot/Internal/RawProjection.h	/^struct RawProjection {$/;"	s	namespace:CvPlot
+RenderTarget	inc/CvPlot/core/RenderTarget.h	/^    RenderTarget(RawProjection rawProjection, cv::Mat3b &outerMat)$/;"	f	class:CvPlot::RenderTarget
+RenderTarget	inc/CvPlot/core/RenderTarget.h	/^class RenderTarget :public Projection{$/;"	c	namespace:CvPlot
+SAMPLE_TIME	main.cpp	48;"	d	file:
+SERIALIB_H	serialLib/serialib.h	20;"	d
+SERIAL_DATABITS_16	serialLib/serialib.h	/^    SERIAL_DATABITS_16,  \/**< 16 databits *\/$/;"	e	enum:SerialDataBits
+SERIAL_DATABITS_5	serialLib/serialib.h	/^    SERIAL_DATABITS_5, \/**< 5 databits *\/$/;"	e	enum:SerialDataBits
+SERIAL_DATABITS_6	serialLib/serialib.h	/^    SERIAL_DATABITS_6, \/**< 6 databits *\/$/;"	e	enum:SerialDataBits
+SERIAL_DATABITS_7	serialLib/serialib.h	/^    SERIAL_DATABITS_7, \/**< 7 databits *\/$/;"	e	enum:SerialDataBits
+SERIAL_DATABITS_8	serialLib/serialib.h	/^    SERIAL_DATABITS_8,  \/**< 8 databits *\/$/;"	e	enum:SerialDataBits
+SERIAL_PARITY_EVEN	serialLib/serialib.h	/^    SERIAL_PARITY_EVEN, \/**< even parity bit *\/$/;"	e	enum:SerialParity
+SERIAL_PARITY_MARK	serialLib/serialib.h	/^    SERIAL_PARITY_MARK, \/**< mark parity *\/$/;"	e	enum:SerialParity
+SERIAL_PARITY_NONE	serialLib/serialib.h	/^    SERIAL_PARITY_NONE, \/**< no parity bit *\/$/;"	e	enum:SerialParity
+SERIAL_PARITY_ODD	serialLib/serialib.h	/^    SERIAL_PARITY_ODD, \/**< odd parity bit *\/$/;"	e	enum:SerialParity
+SERIAL_PARITY_SPACE	serialLib/serialib.h	/^    SERIAL_PARITY_SPACE \/**< space bit *\/$/;"	e	enum:SerialParity
+SERIAL_PORT	main.cpp	84;"	d	file:
+SERIAL_STOPBITS_1	serialLib/serialib.h	/^    SERIAL_STOPBITS_1, \/**< 1 stop bit *\/$/;"	e	enum:SerialStopBits
+SERIAL_STOPBITS_1_5	serialLib/serialib.h	/^    SERIAL_STOPBITS_1_5, \/**< 1.5 stop bits *\/$/;"	e	enum:SerialStopBits
+SERIAL_STOPBITS_2	serialLib/serialib.h	/^    SERIAL_STOPBITS_2, \/**< 2 stop bits *\/$/;"	e	enum:SerialStopBits
+SRC	Makefile	/^SRC = main.cpp$/;"	m
+SerialDataBits	serialLib/serialib.h	/^enum SerialDataBits {$/;"	g
+SerialParity	serialLib/serialib.h	/^enum SerialParity {$/;"	g
+SerialStopBits	serialLib/serialib.h	/^enum SerialStopBits {$/;"	g
+Series	inc/CvPlot/drawables/Series.h	/^class CVPLOT_LIBRARY_INTERFACE Series : public LineBaseSub<Series> {$/;"	c	namespace:CvPlot
+TAIL	main.cpp	83;"	d	file:
+Title	inc/CvPlot/drawables/Title.h	/^class CVPLOT_LIBRARY_INTERFACE Title : public Drawable {$/;"	c	namespace:CvPlot
+Transformation	inc/CvPlot/core/Transformation.h	/^class Transformation{$/;"	c	namespace:CvPlot
+Tune_Float_t	main.cpp	/^} Tune_Float_t;$/;"	t	typeref:struct:__anon2	file:
+Tune_Int_t	main.cpp	/^} Tune_Int_t;$/;"	t	typeref:struct:__anon1	file:
+UNUSED	serialLib/serialib.h	48;"	d
+VerticalGrid	inc/CvPlot/drawables/VerticalGrid.h	/^class CVPLOT_LIBRARY_INTERFACE VerticalGrid : public LineBaseSub<VerticalGrid> {$/;"	c	namespace:CvPlot
+VerticalLine	inc/CvPlot/drawables/VerticalLine.h	/^class CVPLOT_LIBRARY_INTERFACE VerticalLine : public LineBaseSub<VerticalLine> {$/;"	c	namespace:CvPlot
+WIDTH_PER_TRACKBAR	main.cpp	37;"	d	file:
+Window	inc/CvPlot/gui/Window.h	/^Window::Window(Window && a)$/;"	f	class:CvPlot::Window
+Window	inc/CvPlot/gui/Window.h	/^Window::Window(std::string windowName, Axes &axes, int rows, int cols)$/;"	f	class:CvPlot::Window
+Window	inc/CvPlot/gui/Window.h	/^class Window {$/;"	c	namespace:CvPlot
+XAxis	inc/CvPlot/drawables/XAxis.h	/^class CVPLOT_LIBRARY_INTERFACE XAxis : public Drawable {$/;"	c	namespace:CvPlot
+XLabel	inc/CvPlot/drawables/XLabel.h	/^class CVPLOT_LIBRARY_INTERFACE XLabel : public Drawable {$/;"	c	namespace:CvPlot
+YAxis	inc/CvPlot/drawables/YAxis.h	/^class CVPLOT_LIBRARY_INTERFACE YAxis : public Drawable {$/;"	c	namespace:CvPlot
+YLabel	inc/CvPlot/drawables/YLabel.h	/^class CVPLOT_LIBRARY_INTERFACE YLabel : public Drawable {$/;"	c	namespace:CvPlot
+_axes	inc/CvPlot/gui/MouseEvent.h	/^    Axes &_axes;$/;"	m	class:CvPlot::MouseEvent
+_event	inc/CvPlot/gui/MouseEvent.h	/^    int _event;$/;"	m	class:CvPlot::MouseEvent
+_flags	inc/CvPlot/gui/MouseEvent.h	/^    int _flags;$/;"	m	class:CvPlot::MouseEvent
+_innerMat	inc/CvPlot/core/RenderTarget.h	/^    cv::Mat3b _innerMat;$/;"	m	class:CvPlot::RenderTarget
+_mat	inc/CvPlot/gui/Window.h	/^    cv::Mat3b _mat;$/;"	m	class:CvPlot::Window
+_mouseAdapter	inc/CvPlot/gui/Window.h	/^    MouseAdapter _mouseAdapter;$/;"	m	class:CvPlot::Window
+_outerMat	inc/CvPlot/core/RenderTarget.h	/^    cv::Mat3b _outerMat;$/;"	m	class:CvPlot::RenderTarget
+_rawProjection	inc/CvPlot/core/Projection.h	/^    RawProjection _rawProjection;$/;"	m	class:CvPlot::Projection
+_renderSize	inc/CvPlot/gui/MouseEvent.h	/^    cv::Size _renderSize;$/;"	m	class:CvPlot::MouseEvent
+_windowName	inc/CvPlot/gui/Window.h	/^    std::string _windowName;$/;"	m	class:CvPlot::Window
+_x	inc/CvPlot/gui/MouseEvent.h	/^    int _x;$/;"	m	class:CvPlot::MouseEvent
+_y	inc/CvPlot/gui/MouseEvent.h	/^    int _y;$/;"	m	class:CvPlot::MouseEvent
+analyse	main.cpp	/^void analyse(void)$/;"	f
+available	serialLib/serialib.cpp	/^int serialib::available()$/;"	f	class:serialib
+axes	inc/CvPlot/gui/MouseEvent.h	/^    Axes &axes() const{$/;"	f	class:CvPlot::MouseEvent
+backUp	main.cpp	/^void backUp(cv::Mat board, cv::Mat board1, cv::Mat boardF, cv::Mat boardF1)$/;"	f
+clean	main.cpp	/^void clean(void){$/;"	f
+clearDTR	serialLib/serialib.cpp	/^bool serialib::clearDTR()$/;"	f	class:serialib
+clearRTS	serialLib/serialib.cpp	/^bool serialib::clearRTS()$/;"	f	class:serialib
+closeDevice	serialLib/serialib.cpp	/^void serialib::closeDevice()$/;"	f	class:serialib
+create	inc/CvPlot/core/DrawableDeque.h	/^SomeDrawable& DrawableDeque::create(Args&&... args) {$/;"	f	class:CvPlot::DrawableDeque
+current	main.cpp	/^	int current;$/;"	m	struct:__anon1	file:
+current	main.cpp	/^	int current;$/;"	m	struct:__anon2	file:
+currentF	main.cpp	/^	float currentF;$/;"	m	struct:__anon2	file:
+currentStateDTR	serialLib/serialib.h	/^    bool            currentStateDTR;$/;"	m	class:serialib
+currentStateRTS	serialLib/serialib.h	/^    bool            currentStateRTS;$/;"	m	class:serialib
+elapsedTime_ms	serialLib/serialib.cpp	/^unsigned long int timeOut::elapsedTime_ms()$/;"	f	class:timeOut
+event	inc/CvPlot/gui/MouseEvent.h	/^    int event()const {$/;"	f	class:CvPlot::MouseEvent
+fd	serialLib/serialib.h	/^    int             fd;$/;"	m	class:serialib
+fileName	main.cpp	/^vector<String> fileName, imgName;$/;"	v
+fileNum	main.cpp	/^int imgIndex, fileNum;$/;"	v
+find	inc/CvPlot/core/DrawableDeque.h	/^SomeDrawable* DrawableDeque::find() {$/;"	f	class:CvPlot::DrawableDeque
+find	inc/CvPlot/core/DrawableDeque.h	/^SomeDrawable* DrawableDeque::find(const std::string &name) {$/;"	f	class:CvPlot::DrawableDeque
+findIterator	inc/CvPlot/core/DrawableDeque.h	/^DrawableDeque::Drawables::iterator DrawableDeque::findIterator() {$/;"	f	class:CvPlot::DrawableDeque
+findIterator	inc/CvPlot/core/DrawableDeque.h	/^DrawableDeque::Drawables::iterator DrawableDeque::findIterator(const std::string &name) {$/;"	f	class:CvPlot::DrawableDeque
+findOrCreate	inc/CvPlot/core/DrawableDeque.h	/^SomeDrawable& DrawableDeque::findOrCreate() {$/;"	f	class:CvPlot::DrawableDeque
+findOrCreate	inc/CvPlot/core/DrawableDeque.h	/^SomeDrawable& DrawableDeque::findOrCreate(const std::string &name) {$/;"	f	class:CvPlot::DrawableDeque
+findWindowXY	main.cpp	/^void findWindowXY(int key, int *X, int *Y)$/;"	f
+fixRatio	inc/CvPlot/Internal/util.h	/^cv::Rect_<T> fixRatio(cv::Rect_<T> rect, double ratio, bool extend) {$/;"	f	namespace:CvPlot::Internal
+flags	inc/CvPlot/gui/MouseEvent.h	/^    int flags()const {$/;"	f	class:CvPlot::MouseEvent
+flushReceiver	serialLib/serialib.cpp	/^char serialib::flushReceiver()$/;"	f	class:serialib
+generate	main.cpp	/^void generate(void)$/;"	f
+getAxes	inc/CvPlot/gui/Window.h	/^Axes& Window::getAxes() {$/;"	f	class:CvPlot::Window
+getScreenResolution	main.cpp	/^void getScreenResolution(int &width, int &height)$/;"	f
+hSerial	serialLib/serialib.h	/^    HANDLE          hSerial;$/;"	m	class:serialib
+imgIndex	main.cpp	/^int imgIndex, fileNum;$/;"	v
+imgName	main.cpp	/^vector<String> fileName, imgName;$/;"	v
+initTimer	serialLib/serialib.cpp	/^void timeOut::initTimer()$/;"	f	class:timeOut
+initTrackbars	main.cpp	/^void initTrackbars(int s)$/;"	f
+innerMat	inc/CvPlot/core/RenderTarget.h	/^    cv::Mat3b& innerMat(){$/;"	f	class:CvPlot::RenderTarget
+innerPoint	inc/CvPlot/gui/MouseEvent.h	/^    cv::Point innerPoint()const {$/;"	f	class:CvPlot::MouseEvent
+innerRect	inc/CvPlot/Internal/LinearProjection.h	/^    cv::Rect innerRect;$/;"	m	struct:CvPlot::LinearProjection
+innerRect	inc/CvPlot/Internal/RawProjection.h	/^    cv::Rect innerRect;$/;"	m	struct:CvPlot::RawProjection
+innerRect	inc/CvPlot/core/Projection.h	/^    cv::Rect innerRect()const {$/;"	f	class:CvPlot::Projection
+innerToOuter	inc/CvPlot/core/Projection.h	/^    cv::Point2d innerToOuter(cv::Point2d inner) const {$/;"	f	class:CvPlot::Projection
+isCTS	serialLib/serialib.cpp	/^bool serialib::isCTS()$/;"	f	class:serialib
+isDCD	serialLib/serialib.cpp	/^bool serialib::isDCD()$/;"	f	class:serialib
+isDSR	serialLib/serialib.cpp	/^bool serialib::isDSR()$/;"	f	class:serialib
+isDTR	serialLib/serialib.cpp	/^bool serialib::isDTR()$/;"	f	class:serialib
+isRI	serialLib/serialib.cpp	/^bool serialib::isRI()$/;"	f	class:serialib
+isRTS	serialLib/serialib.cpp	/^bool serialib::isRTS()$/;"	f	class:serialib
+kx	inc/CvPlot/Internal/LinearProjection.h	/^    double kx, ky;$/;"	m	struct:CvPlot::LinearProjection
+kx	inc/CvPlot/Internal/RawProjection.h	/^    double kx, ky;$/;"	m	struct:CvPlot::RawProjection
+ky	inc/CvPlot/Internal/LinearProjection.h	/^    double kx, ky;$/;"	m	struct:CvPlot::LinearProjection
+ky	inc/CvPlot/Internal/RawProjection.h	/^    double kx, ky;$/;"	m	struct:CvPlot::RawProjection
+last	main.cpp	/^	int last;$/;"	m	struct:__anon1	file:
+lastF	main.cpp	/^	float lastF;$/;"	m	struct:__anon2	file:
+listFloatTune	main.cpp	/^vector<Tune_Float_t> listFloatTune;$/;"	v
+listIntTune	main.cpp	/^vector<Tune_Int_t> listIntTune;$/;"	v
+log	main.cpp	/^void log(int s)$/;"	f
+m	inc/CvPlot/Internal/Pimpl.h	/^    std::unique_ptr<T> m;$/;"	m	class:CvPlot::Internal::Pimpl
+main	main.cpp	/^int main(int argc, char **argv)$/;"	f
+max	main.cpp	/^	int max;$/;"	m	struct:__anon1	file:
+max	main.cpp	/^	int max;$/;"	m	struct:__anon2	file:
+maxF	main.cpp	/^	float maxF;$/;"	m	struct:__anon2	file:
+min	main.cpp	/^	int min;$/;"	m	struct:__anon1	file:
+min	main.cpp	/^	int min;$/;"	m	struct:__anon2	file:
+minF	main.cpp	/^	float minF;$/;"	m	struct:__anon2	file:
+normalize	inc/CvPlot/Internal/util.h	/^void normalize(cv::Rect_<T> &rect) {$/;"	f	namespace:CvPlot::Internal
+numBoardInt	main.cpp	/^int numTrackbar, numBoardInt, toggle;$/;"	v
+numTrackbar	main.cpp	/^int numTrackbar, numBoardInt, toggle;$/;"	v
+offset	inc/CvPlot/Internal/LinearProjection.h	/^    cv::Point2d offset;$/;"	m	struct:CvPlot::LinearProjection
+offset	inc/CvPlot/Internal/RawProjection.h	/^    cv::Point2d offset;$/;"	m	struct:CvPlot::RawProjection
+offsetCur	main.cpp	/^	int offsetCur;$/;"	m	struct:__anon1	file:
+offsetCur	main.cpp	/^	int offsetCur;$/;"	m	struct:__anon2	file:
+openDevice	serialLib/serialib.cpp	/^char serialib::openDevice(const char *Device, const unsigned int Bauds,$/;"	f	class:serialib
+operator ->	inc/CvPlot/Internal/Pimpl.h	/^    T* operator->() {$/;"	f	class:CvPlot::Internal::Pimpl
+operator ->	inc/CvPlot/Internal/Pimpl.h	/^    const T* operator->() const {$/;"	f	class:CvPlot::Internal::Pimpl
+operator =	inc/CvPlot/Internal/Pimpl.h	/^    Pimpl& operator=(Pimpl &&a) {$/;"	f	class:CvPlot::Internal::Pimpl
+outerMat	inc/CvPlot/core/RenderTarget.h	/^    cv::Mat3b& outerMat() {$/;"	f	class:CvPlot::RenderTarget
+outerPoint	inc/CvPlot/gui/MouseEvent.h	/^    cv::Point outerPoint()const {$/;"	f	class:CvPlot::MouseEvent
+outerToInner	inc/CvPlot/core/Projection.h	/^    cv::Point2d outerToInner(cv::Point2d outer) const{$/;"	f	class:CvPlot::Projection
+override	inc/CvPlot/drawables/Border.h	/^    bool getBoundingRect(cv::Rect2d &rect)override;$/;"	m	class:CvPlot::Border
+override	inc/CvPlot/drawables/Border.h	/^    void render(RenderTarget &renderTarget)override;$/;"	m	class:CvPlot::Border
+override	inc/CvPlot/drawables/Group.h	/^    bool getBoundingRect(cv::Rect2d &rect) override;$/;"	m	class:CvPlot::Group
+override	inc/CvPlot/drawables/Group.h	/^    void render(RenderTarget &renderTarget) override;$/;"	m	class:CvPlot::Group
+override	inc/CvPlot/drawables/HorizontalGrid.h	/^    bool getBoundingRect(cv::Rect2d &rect)override;$/;"	m	class:CvPlot::HorizontalGrid
+override	inc/CvPlot/drawables/HorizontalGrid.h	/^    void render(RenderTarget &renderTarget)override;$/;"	m	class:CvPlot::HorizontalGrid
+override	inc/CvPlot/drawables/HorizontalLine.h	/^    bool getBoundingRect(cv::Rect2d &rect)override;$/;"	m	class:CvPlot::HorizontalLine
+override	inc/CvPlot/drawables/HorizontalLine.h	/^    void render(RenderTarget &renderTarget)override;$/;"	m	class:CvPlot::HorizontalLine
+override	inc/CvPlot/drawables/Image.h	/^    bool getBoundingRect(cv::Rect2d &rect)override;$/;"	m	class:CvPlot::Image
+override	inc/CvPlot/drawables/Image.h	/^    void render(RenderTarget &renderTarget)override;$/;"	m	class:CvPlot::Image
+override	inc/CvPlot/drawables/LineBase.h	/^    bool getBoundingRect(cv::Rect2d &rect)override;$/;"	m	class:CvPlot::LineBase
+override	inc/CvPlot/drawables/LineBase.h	/^    void render(RenderTarget &renderTarget)override;$/;"	m	class:CvPlot::LineBase
+override	inc/CvPlot/drawables/Series.h	/^    bool getBoundingRect(cv::Rect2d &rect)override;$/;"	m	class:CvPlot::Series
+override	inc/CvPlot/drawables/Series.h	/^    void render(RenderTarget &renderTarget)override;$/;"	m	class:CvPlot::Series
+override	inc/CvPlot/drawables/Title.h	/^    bool getBoundingRect(cv::Rect2d &rect)override;$/;"	m	class:CvPlot::Title
+override	inc/CvPlot/drawables/Title.h	/^    void render(RenderTarget &renderTarget)override;$/;"	m	class:CvPlot::Title
+override	inc/CvPlot/drawables/VerticalGrid.h	/^    bool getBoundingRect(cv::Rect2d &rect)override;$/;"	m	class:CvPlot::VerticalGrid
+override	inc/CvPlot/drawables/VerticalGrid.h	/^    void render(RenderTarget &renderTarget)override;$/;"	m	class:CvPlot::VerticalGrid
+override	inc/CvPlot/drawables/VerticalLine.h	/^    bool getBoundingRect(cv::Rect2d &rect)override;$/;"	m	class:CvPlot::VerticalLine
+override	inc/CvPlot/drawables/VerticalLine.h	/^    void render(RenderTarget &renderTarget)override;$/;"	m	class:CvPlot::VerticalLine
+override	inc/CvPlot/drawables/XAxis.h	/^    bool getBoundingRect(cv::Rect2d &rect)override;$/;"	m	class:CvPlot::XAxis
+override	inc/CvPlot/drawables/XAxis.h	/^    void render(RenderTarget &renderTarget)override;$/;"	m	class:CvPlot::XAxis
+override	inc/CvPlot/drawables/XLabel.h	/^    bool getBoundingRect(cv::Rect2d &rect)override;$/;"	m	class:CvPlot::XLabel
+override	inc/CvPlot/drawables/XLabel.h	/^    void render(RenderTarget &renderTarget)override;$/;"	m	class:CvPlot::XLabel
+override	inc/CvPlot/drawables/YAxis.h	/^    bool getBoundingRect(cv::Rect2d &rect)override;$/;"	m	class:CvPlot::YAxis
+override	inc/CvPlot/drawables/YAxis.h	/^    void render(RenderTarget &renderTarget)override;$/;"	m	class:CvPlot::YAxis
+override	inc/CvPlot/drawables/YLabel.h	/^    bool getBoundingRect(cv::Rect2d &rect)override;$/;"	m	class:CvPlot::YLabel
+override	inc/CvPlot/drawables/YLabel.h	/^    void render(RenderTarget &renderTarget)override;$/;"	m	class:CvPlot::YLabel
+plotPID	main.cpp	/^void plotPID(int screenWidth, int screenHeight)$/;"	f
+pos	inc/CvPlot/gui/MouseEvent.h	/^    cv::Point2d pos()const {$/;"	f	class:CvPlot::MouseEvent
+previousTime	serialLib/serialib.h	/^    struct timeval      previousTime;$/;"	m	class:timeOut	typeref:struct:timeOut::timeval
+project	inc/CvPlot/Internal/LinearProjection.h	/^    cv::Point2d project(cv::Point2d point, bool withTransformation = true)const {$/;"	f	struct:CvPlot::LinearProjection
+project	inc/CvPlot/Internal/RawProjection.h	/^    cv::Point2d project(cv::Point2d point, bool withTransformation = true)const {$/;"	f	struct:CvPlot::RawProjection
+project	inc/CvPlot/core/Projection.h	/^    cv::Point2d project(cv::Point2d point)const {$/;"	f	class:CvPlot::Projection
+projection	inc/CvPlot/gui/MouseEvent.h	/^    Projection projection()const {$/;"	f	class:CvPlot::MouseEvent
+readBytes	serialLib/serialib.cpp	/^int serialib::readBytes (void *buffer,unsigned int maxNbBytes,unsigned int timeOut_ms, unsigned int sleepDuration_us)$/;"	f	class:serialib
+readChar	serialLib/serialib.cpp	/^char serialib::readChar(char *pByte,unsigned int timeOut_ms)$/;"	f	class:serialib
+readString	serialLib/serialib.cpp	/^int serialib::readString(char *receivedString,char finalChar,unsigned int maxNbBytes,unsigned int timeOut_ms)$/;"	f	class:serialib
+readStringNoTimeOut	serialLib/serialib.cpp	/^int serialib::readStringNoTimeOut(char *receivedString,char finalChar,unsigned int maxNbBytes)$/;"	f	class:serialib
+renderSize	inc/CvPlot/gui/MouseEvent.h	/^    cv::Size renderSize() const {$/;"	f	class:CvPlot::MouseEvent
+requestUpdate	main.cpp	/^void requestUpdate(int s)$/;"	f
+sendBuf	main.cpp	/^uint8_t sendBuf[BUFFER_SIZE];$/;"	v
+sendEditedTune	main.cpp	/^void sendEditedTune(int s)$/;"	f
+serialib	serialLib/serialib.cpp	/^serialib::serialib()$/;"	f	class:serialib
+serialib	serialLib/serialib.h	/^class serialib$/;"	c
+setColor	inc/CvPlot/drawables/LineBase.h	/^    Derived& setColor(cv::Scalar color) {$/;"	f	class:CvPlot::LineBaseSub
+setDTR	serialLib/serialib.cpp	/^bool serialib::setDTR()$/;"	f	class:serialib
+setLineSpec	inc/CvPlot/drawables/LineBase.h	/^    Derived& setLineSpec(const std::string &lineSpec) {$/;"	f	class:CvPlot::LineBaseSub
+setLineType	inc/CvPlot/drawables/LineBase.h	/^    Derived& setLineType(LineType lineType) {$/;"	f	class:CvPlot::LineBaseSub
+setLineWidth	inc/CvPlot/drawables/LineBase.h	/^    Derived& setLineWidth(int lineWidth) {$/;"	f	class:CvPlot::LineBaseSub
+setMouseCallback	inc/CvPlot/gui/Window.h	/^void Window::setMouseCallback() {$/;"	f	class:CvPlot::Window
+setMouseEventHandler	inc/CvPlot/gui/Window.h	/^void Window::setMouseEventHandler(MouseEventHandler mouseEventHandler) {$/;"	f	class:CvPlot::Window
+setName	inc/CvPlot/core/Drawable.h	/^    Derived& setName(std::string name) {$/;"	f	class:CvPlot::DrawableSub
+setName	inc/CvPlot/drawables/LineBase.h	/^    Derived& setName(std::string name) {$/;"	f	class:CvPlot::LineBaseSub
+setRTS	serialLib/serialib.cpp	/^bool serialib::setRTS()$/;"	f	class:serialib
+show	inc/CvPlot/gui/show.h	/^inline void show(const std::string &windowName, Axes &axes, int rows = 480, int cols = 640) {$/;"	f	namespace:CvPlot
+showImage	inc/CvPlot/gui/show.h	/^inline void showImage(const cv::Mat &mat) {$/;"	f	namespace:CvPlot
+showPlot	inc/CvPlot/gui/show.h	/^inline void showPlot(cv::InputArray data, const std::string &lineSpec = "-") {$/;"	f	namespace:CvPlot
+showPlot	inc/CvPlot/gui/show.h	/^inline void showPlot(cv::InputArray x, cv::InputArray y, const std::string &lineSpec = "-") {$/;"	f	namespace:CvPlot
+showRBCvideo	main.cpp	/^void showRBCvideo(cv::VideoCapture &waitVideo, int x, int y, double scale, int delay)$/;"	f
+test	main.cpp	/^void test(void)$/;"	f
+testX	main.cpp	/^int testX, testY;$/;"	v
+testY	main.cpp	/^int testX, testY;$/;"	v
+timeOut	serialLib/serialib.cpp	/^timeOut::timeOut()$/;"	f	class:timeOut
+timeOut	serialLib/serialib.h	/^class timeOut$/;"	c
+timeouts	serialLib/serialib.h	/^    COMMTIMEOUTS    timeouts;$/;"	m	class:serialib
+toVector	inc/CvPlot/Internal/util.h	/^std::vector<T> toVector(cv::InputArray inputArray) {$/;"	f	namespace:CvPlot::Internal
+toggle	main.cpp	/^int numTrackbar, numBoardInt, toggle;$/;"	v
+transformBoundingRect	inc/CvPlot/core/Transformation.h	/^    virtual cv::Rect2d transformBoundingRect(const cv::Rect2d &r)const {$/;"	f	class:CvPlot::Transformation
+transformLogLim	inc/CvPlot/core/Transformation.h	/^    static std::pair<double, double> transformLogLim(std::pair<double, double> lim) {$/;"	f	class:CvPlot::LogLogTransformation
+transformXLim	inc/CvPlot/core/Transformation.h	/^    virtual std::pair<double, double> transformXLim(std::pair<double, double> xlim)const {$/;"	f	class:CvPlot::Transformation
+transformYLim	inc/CvPlot/core/Transformation.h	/^    virtual std::pair<double, double> transformYLim(std::pair<double, double> ylim)const {$/;"	f	class:CvPlot::Transformation
+transformation	inc/CvPlot/Internal/LinearProjection.h	/^    Transformation *transformation = nullptr;$/;"	m	struct:CvPlot::LinearProjection
+transformation	inc/CvPlot/Internal/RawProjection.h	/^    Transformation *transformation = nullptr;$/;"	m	struct:CvPlot::RawProjection
+unproject	inc/CvPlot/Internal/LinearProjection.h	/^    cv::Point2d unproject(cv::Point2d point, bool withTransformation = true)const {$/;"	f	struct:CvPlot::LinearProjection
+unproject	inc/CvPlot/Internal/RawProjection.h	/^    cv::Point2d unproject(cv::Point2d point, bool withTransformation = true)const {$/;"	f	struct:CvPlot::RawProjection
+unproject	inc/CvPlot/core/Projection.h	/^    cv::Point2d unproject(cv::Point2d point)const {$/;"	f	class:CvPlot::Projection
+untransformXLim	inc/CvPlot/core/Transformation.h	/^    virtual std::pair<double, double> untransformXLim(std::pair<double, double> xlim)const {$/;"	f	class:CvPlot::Transformation
+untransformYLim	inc/CvPlot/core/Transformation.h	/^    virtual std::pair<double, double> untransformYLim(std::pair<double, double> ylim)const {$/;"	f	class:CvPlot::Transformation
+update	inc/CvPlot/gui/Window.h	/^void Window::update() {$/;"	f	class:CvPlot::Window
+updateSize	inc/CvPlot/gui/Window.h	/^void Window::updateSize() {$/;"	f	class:CvPlot::Window
+valid	inc/CvPlot/gui/Window.h	/^bool Window::valid() const {$/;"	f	class:CvPlot::Window
+varName	main.cpp	/^	String varName;$/;"	m	struct:__anon1	file:
+varName	main.cpp	/^	String varName;$/;"	m	struct:__anon2	file:
+waitKey	inc/CvPlot/gui/Window.h	/^int Window::waitKey(const std::vector<Window*> &windows, int delay) {$/;"	f	class:CvPlot::Window
+waitKey	inc/CvPlot/gui/Window.h	/^int Window::waitKey(int delay){$/;"	f	class:CvPlot::Window
+writeBytes	serialLib/serialib.cpp	/^char serialib::writeBytes(const void *Buffer, const unsigned int NbBytes)$/;"	f	class:serialib
+writeChar	serialLib/serialib.cpp	/^char serialib::writeChar(const char Byte)$/;"	f	class:serialib
+writeFail	main.cpp	/^Mat writeSuccess, writeFail;$/;"	v
+writeString	serialLib/serialib.cpp	/^char serialib::writeString(const char *receivedString)$/;"	f	class:serialib
+writeSuccess	main.cpp	/^Mat writeSuccess, writeFail;$/;"	v
+x	inc/CvPlot/gui/MouseEvent.h	/^    int x()const {$/;"	f	class:CvPlot::MouseEvent
+y	inc/CvPlot/gui/MouseEvent.h	/^    int y()const {$/;"	f	class:CvPlot::MouseEvent
+~Pimpl	inc/CvPlot/Internal/Pimpl.h	/^    ~Pimpl() {$/;"	f	class:CvPlot::Internal::Pimpl
+~Transformation	inc/CvPlot/core/Transformation.h	/^    virtual ~Transformation(){}$/;"	f	class:CvPlot::Transformation
+~Window	inc/CvPlot/gui/Window.h	/^Window::~Window() {$/;"	f	class:CvPlot::Window
+~serialib	serialLib/serialib.cpp	/^serialib::~serialib()$/;"	f	class:serialib

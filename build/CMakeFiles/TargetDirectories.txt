@@ -1,0 +1,6 @@
+/home/peisen/TuningInterface/build/CMakeFiles/rebuild_cache.dir
+/home/peisen/TuningInterface/build/CMakeFiles/edit_cache.dir
+/home/peisen/TuningInterface/build/CMakeFiles/tune.dir
+/home/peisen/TuningInterface/build/serialLib/CMakeFiles/rebuild_cache.dir
+/home/peisen/TuningInterface/build/serialLib/CMakeFiles/edit_cache.dir
+/home/peisen/TuningInterface/build/serialLib/CMakeFiles/serialLib.dir

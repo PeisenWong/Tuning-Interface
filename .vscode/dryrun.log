@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/peisen/TuningInterface'
+"g++" main.cpp `pkg-config opencv4 --cflags --libs` ./serialLib/serialib.cpp -lbluetooth -lX11 -I./inc -o tune 
+make: Leaving directory '/home/peisen/TuningInterface'
+ 
